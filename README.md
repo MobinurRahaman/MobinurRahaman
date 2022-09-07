@@ -3,8 +3,7 @@
 I started coding as my hobby besides my study. Now my passion has led me to build some awesome projects and to build my career as a coder.
 
 Skills: REACT / REDUX / JS / HTML / CSS / PHP / MySQL
-
-- 🔭 I’m currently working on this page. 
+ 
 - 🌱 I’m currently learning Node, Express, MongoDB, React Native, Redis, Typescript 
 
 
