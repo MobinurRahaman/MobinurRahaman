@@ -8,11 +8,8 @@ Skills: REACT / REDUX / JS / HTML / CSS / PHP / MySQL
 
 
 
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MobinurRahaman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mobinur.rahaman97/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12368573)  
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MobinurRahaman)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MobinurRahaman)](https://github.com/ryo-ma/github-profile-trophy)
 
